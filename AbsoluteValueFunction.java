@@ -1,31 +1,16 @@
-/******************************************************************************
- CLASS INFORMATION                                    * Score: ______________ *
- -----------------                                    *************************
-   Programmer: Kyle Grimm
-   Date Due:   10/13/2017
- ******************************************************************************/
-import java.util.Scanner;
-
-public class AbsoluteValueFunction
-{
-	public static void main(String[] args)
-	{
-		Scanner kb = new Scanner(System.in);
-		int value = kb.nextInt();
-
-		System.out.println(abs(value));
-	}
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>thanksgivng</title>
+	</head>
 
 
-	static int abs(int num)
-	{
-		if(num > 0)
-		{
-			return num *= 1;
-		}
-		else
-		{
-			return num * -1;
-		}
-	}
-}
+<body>
+	<h1> thanksgiving break </h1>
+		<p> spending quality time with the fam </p>
+	<h2> thanksgiving day </h1>
+		<p> thanksgiving is about being thankful for each other and what we have! also food </p>
+</body>
+
+
+</html>
